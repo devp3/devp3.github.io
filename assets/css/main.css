@@ -1755,14 +1755,14 @@ input, select, textarea {
 		}
 
 		.image.avatar48 {
-			width: 48px;
-			height: 48px;
+			width: 50px;
+			height: 50px;
 			background: #f00;
 		}
 
 			.image.avatar48 img {
-				width: 48px;
-				height: 48px;
+				width: 50px;
+				height: 50px;
 			}
 
 		.image.fit {
@@ -1796,6 +1796,7 @@ input, select, textarea {
 	ul {
 		list-style: disc;
 		padding-left: 1em;
+		/* text-align: left; */
 	}
 
 		ul li {
@@ -2248,7 +2249,7 @@ input, select, textarea {
 
 			#main > section.one {
 				background-color: rgba(255, 255, 255, 0.2);
-				background-image: url("../../images/Tiling\ Pattern-2.jpg");
+				background-image: url("../../images/Tiling\ Pattern-1.jpg");
 				/* opacity: 0.85; */
 			}
 
